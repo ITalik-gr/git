@@ -1,0 +1,25 @@
+
+.header {
+  background: rgba(242, 206, 218, 0.301);
+}
+
+.nav {
+  &-logo {
+
+  }
+  &-list {
+    &__item {
+      &-active {
+        a {
+
+        }
+      }
+      a {
+
+      }
+    }
+  }
+  &-btn {
+    
+  }
+}
